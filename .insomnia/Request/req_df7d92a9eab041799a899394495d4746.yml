@@ -1,0 +1,78 @@
+_id: req_df7d92a9eab041799a899394495d4746
+type: Request
+parentId: wrk_54392308ccfa4908aacb5a49e995964f
+modified: 1738363659066
+created: 1738363338506
+url: http://localhost:9141/ESimplified/V1/HTTP_Customer/
+name: Get Customer
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: |-
+    {
+    "OldPassword" :"rbadaoui1@africell.com",
+    	"NewPassword" :"Erbadaoui1@africell.com",
+    	"NewPasswordConfirm" :"Erbadaoui1@africell.com"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_22f86c05a10f4f81aec302f22eb586b6
+  - name: User-Agent
+    value: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101
+      Firefox/134.0
+    id: pair_673eb58c185c41bab4a80c68a74183a0
+  - name: Accept
+    value: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+    id: pair_e1baa73e5a224b77ab3cfe17d7611119
+  - name: Accept-Language
+    value: en-US,en;q=0.5
+    id: pair_6d87290f22534e398e0a6261abf1c3b6
+  - name: Accept-Encoding
+    value: gzip, deflate, br, zstd
+    id: pair_935dcb47ac7b47dd962a3b96c4d6e2e8
+  - name: Connection
+    value: keep-alive
+    id: pair_22afed4676204fce98a648dba692845f
+  - name: Upgrade-Insecure-Requests
+    value: "1"
+    id: pair_b0d25401f58d4f9db82ecd898f804844
+  - name: Sec-Fetch-Dest
+    value: document
+    id: pair_cddacb8387b94999a5f24ce9b4bcae13
+  - name: Sec-Fetch-Mode
+    value: navigate
+    id: pair_32c01d46d72d418cbed175cc8aaa534d
+  - name: Sec-Fetch-Site
+    value: none
+    id: pair_b1a4aa4abfad4895bed41bb87d456395
+  - name: Sec-Fetch-User
+    value: ?1
+    id: pair_fc8192202c3c47c0909403db2b8460c2
+  - name: Priority
+    value: u=0, i
+    id: pair_20efb38f6f9842b382c95aaaa2d457c6
+  - id: pair_158315ea998b49e08b0a4273953a0006
+    name: OTP
+    value: "530072"
+    description: ""
+    disabled: true
+  - id: pair_b5792d685baf43eca32e84cd96da0925
+    name: Authorization
+    value: Bearer
+      eyJhbGciOiJBMTI4S1ciLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0.zgcrkEp7zs4cCVodeyxSpavQW_SeFsiG-ybZa8SiW4nQ2IRupRGYaw.2_HYorElxm7Kc5wRdkkXnA.f31MwO_9wIewkFxyquk9gDlDVVCcSPL5xpV1Zo3XDQr8pAuzccE8oKsgJBjiu2pxG0N-LdWukrlyGoTkI4Qs0O-puH_mr1GrgYpWkCZXF_ZHjWlnJCK293dVwULD-vkOdWNHhYfyeuLOpGh-J9NTUErZfSxb8QYl2xyj9RO8V5xyV2qs0tBCL4claLknYB1BYN9FQinYOMWLPWzaJx80eieX6GWD5BezC6D54usu48nhSbYFN568NRgPjCn8bVNDefNpOb5bja479Fmp4IVVa6A0g-6rgspwAG_cfJfqsoig1VC5KwfZbcXuaw9-32dKq1qlu8CR7NvqhU6Bk4ahS49RWDqU2LqaN4W6sPBoFFx9F7UWXT1ZmlhiMV8xQ79jlnvhI-mjJO-P8T0Iq6U1E3BcoW6paN-n2u_0S2IbDCzGGWl-UHgMSkz47Pk8DnY7eWULNN3VaunUtp_TVStsEFtiZz_OvqCNsKQxefUQ28jgu-PSfApxfDmzubOCVEVxHA-9GP8klRc-NL_IVZPSDMMYdAnhtZWzvAB9Juratvs1OFDIirjFCe_eE38EePvbsTO8KywEBF8nJBlPIFQXOrQRF1Tc3Xgso1FiQ8vyIGNggL4R0jUCFI7QcEhyzcuwwwQCtB-1LOGlwCPwKc1Ni0fb3oqcmvk6voGwCMWUjI_Zcc6-bLZKDfodDEuJVrYPwY8YDsI5mUR4qWkqReimKCAA4-pXZItUcGduvrL78I0iEdQ0trhr0SJXFJFqyiS9xlJG8xEyJ5JPQWrwBx1QZqxgSGCJe70IFRahPBXbTAXM58Ywun4lHXOKu2DMFMRhvKU4K-i_fe3KmRpDBeq-6xcZ986aEtQ8XJuDg_hRULpy0sCNdlTzjbZwsnrHwOXmVH5wBUistX_g3NVX7WDYMLtAGiWi-BPLKXQBdQhEVOWhxYwzgUwFwv_FakMyVkTImsPF1-7Jy8eZnTGhe3e-HpOTZxdTv3AwkLBGBxwJJoq_j5pxTjX8FTDSTQAqKi1S1R0Rqk2ur7z03NpsaVlPlG4Ba8BjyVA4iQGYqeKv3WJlG3cA210OV7xaV9VZKPZFT-5zFAie9RiSK4TTNiaoEqd9cJPzdNdZasWddONHBrITkfEJF1qxQvNS2hWM3dNlymBNfv8l8yGBVG9NR0zDiQlNWtbcY_LtU1l3v_c96gbw4N_kblU4LFY0jj5d11b8NDanqqw0xzuItT5nFnu7Jf_kwEv9ssv5-Umotn8j82rqx9L1_aJGhEAv8piIXhNQKKCO1K9vyA7NsgDoCTFREAokuRsgIDY7TRVxBI4_cyWWXx8tjzzNOACoILVrdf-fbyyvB1TJI9SP6tmg-7mlYQ.DWrmw9Qpd9gCdJJDc4y_WQ
+    description: ""
+authentication:
+  type: bearer
+  token: eyJhbGciOiJBMTI4S1ciLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0.t78RMAdb3PAGLUknuPoeq9GCqyUF3G9xW_7QiELNsnrDqIaZhzn4jg.U8KFS4J9TkGzVJ_R4iijEA._QWr4IduwfCwynR6is0PuGEw8jf2NG7K7hIwkTuBEmXFbCTrGKCffplJIFxGhFLilVoykvQMllWe9SkgkRAVxH2-HPeOXwoKuWrRhkHemk6SUfrT13h8CChFmGUaYa2Hzrtxd-gmlfEdJN0DwqsOp6V1F6-rXZK-yBPLmC43ZYNQ1RPZCBu5NcjhsR1cOP2WwQQ2t8kxtWs1s4ERG2PyXy3-jwbw9TW-u8c39bONtdBUH_5Nr9ynhH8g1jJQyvvFbu-mV-Gpi4LQQNTruhftCPo0zDjj5e2X21sAt9OZ9MUwgF4taF7VHDghXJj_ALz3qSeuzmAnkYU_tWv8v-xw1430irTfFe2j9x-Wi2j8V9CX1hHcwDfb3SRT7YRCKFIGnbwKF8tGPKiiV_qKPhuGHxP5OlibnO4TIo3-LpnHH-Ht6LgC-Voz6ynDHJjNBd6ILKPXUwg5f0RX28-7tj_GWpyJKuO0VmUAe5hZm7W7GQvHcR1g_8k_DI2jgS90LhxDmFfaw7AztaKxxypKl-qJtLTIVkzVd8QeF9PFa3HDV-hyluJ3NWaDC2TT6l5o1BUKW_HX3vkdGY7PgK9UFYf2P1z-q590Ib5fO8mJnsI7LlDMni9PT9iP1OpKLU8cRBenEeEmH-SDQwYiCT5KGTCP3rIyPHV6jzMdAsKVEJ4tanR2w3EuCaLkoJLlgryBR5qCymMtDjuIQ0QdyJspEZ3cRIELzlxCiqyFsYiEvK6Q9YQR3IlGBiS3c6G7RDU925cKBLcB-svJ_aSLi8liw-bQP51Ly47IbE9eWT_Wp-y0-rlpoGY0vlEwNlV90LYQKmbZW_5k135kxJM-Ze-wYuFMdxTZSs1lQoMe7VGj7465UunA0NtbHe9Mj-w8b_Aq6c_ZGSBsjkXCD-yODI9bMANz0_jYr-1lYl94I247OcHVrxIEjwjKUHJg02XOBCYiM4Hw7Pt8FBJJW42dMK-tOO8ZSML5ozISiQwNqojjekKOh50PGZ7T19cV7LY_EmaWF4hesK-ZoeeQCFvmpxqk8v3sxAvlW_fg_2Cn-DVo44PSSk-e0d2qzouJmFJoK4836xqvijAAOSrsZK783qN3ml2vNl9gvvvrBa0JWog6lmXObxfKyWz82i9bI5yBknfoDhGiKsHd15hRCkenCNeG1QiUgoeRjk9f2HMJyWgrvQDDilt8xkaLd3SsIcV-22oToNplt35Abng7B3By4rrGZu6ta7CNvYG3lCr1tollH154tEFtruOSCWgGAQeuo9cC-I3YjgMoCzbF38tnhChKF_ohTS7pFDVxQXVGHNxixjOpr_Un6D2tDSMRvW4QYPV9yNkpvzx2gea00-e3KZO3_NZiffmjkdNkp9COsv0A0HIWQ8GxD4uOQLdl_A5H5iN87buy.MjtSY72vFuBL_DRVXNp-9w
+  disabled: true
+metaSortKey: -1737127522671.75
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

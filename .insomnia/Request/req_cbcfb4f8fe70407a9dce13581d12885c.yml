@@ -1,0 +1,30 @@
+_id: req_cbcfb4f8fe70407a9dce13581d12885c
+type: Request
+parentId: wrk_54392308ccfa4908aacb5a49e995964f
+modified: 1737622328075
+created: 1737539247932
+url: https://africell.stage.esimplified.io/api/v2/regions/?limit=20
+name: regions
+description: ""
+method: GET
+body:
+  mimeType: application/x-www-form-urlencoded
+  params: []
+parameters: []
+headers:
+  - name: Authorization
+    value: Basic
+      N1NLeFlOUVBJSkpqMHk5QlJvSm9FQmRjYTNmeFhMdU1zOGN0M29DbTppekJyTGlNNXVuRzZnSXVmMDE2bzVsSEpESzJQRWoyRzliY3I2MkNHR2FSeldRYWc1WWl6OW1yTHhUVzlhSXRSelY3YU10TDJHeFF3TkN4Q0Fjc09ocU54N0JuUnM4VzlqNGJrRGhxYkdKblp2aXdiN0IxREhhREd2VWQ5YlI5SQ==
+  - name: Content-Type
+    value: application/x-www-form-urlencoded
+  - name: User-Agent
+    value: Insomnia/2023.5.6
+authentication: {}
+metaSortKey: -1736865242894.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
